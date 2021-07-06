@@ -1,1 +1,1 @@
-# Amela PHP Traing
+# Amela PHP Training
