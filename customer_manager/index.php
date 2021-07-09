@@ -33,6 +33,7 @@ use \Controller\CustomerController;
             $controller->delete();
             break;
         case 'edit':
+            $controller->edit();
             break;
         default:
             $controller->index();
