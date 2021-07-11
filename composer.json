@@ -1,0 +1,6 @@
+{
+    "name": "sonnn00/amela",
+    "require-dev": {
+        "squizlabs/php_codesniffer": "3.*"
+    }
+}
